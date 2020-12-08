@@ -1,0 +1,22 @@
+.form {
+  color: #148FF7;
+}
+.btn{
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: #357FFA;
+  color: #ffffff;
+  outline: none;
+  margin: 0 auto;
+}
+
+input{
+  border: 1px solid #148FF7;
+  border-radius: 3px;
+  outline: none;
+}
+input:placeholder{
+  color: #148FF7;
+}
